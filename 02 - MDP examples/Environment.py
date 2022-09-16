@@ -8,7 +8,6 @@ class Environment:
         self.current_location = starting_location
         self.tiles: [Tile] = tiles
         self.current_reward = 0
-        self.episode_count = 0
 
     def step(self, action):
         # Move according to the action
