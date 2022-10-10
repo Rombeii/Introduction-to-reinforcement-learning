@@ -1,0 +1,44 @@
+# Blender MTL File: 'cleanscene.blend'
+# Material Count: 4
+
+newmtl Ash_arms_hat_hair.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Ash_arms_hat_hair.png
+
+newmtl PokeTra_Ash_face.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd PokeTra_Ash_face.png
+
+newmtl trAsh_00_body_col.png
+Ns 70.588235
+Ka 0.000000 0.000000 0.000000
+Kd 0.085899 0.085899 0.085899
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd trAsh_00_body_col.png
+map_d trAsh_00_body_col.png
+
+newmtl trAsh_00_obj_col.png
+Ns 70.588235
+Ka 0.000000 0.000000 0.000000
+Kd 0.085899 0.085899 0.085899
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd trAsh_00_obj_col.png
+map_d trAsh_00_obj_col.png
